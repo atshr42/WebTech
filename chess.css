@@ -1,0 +1,12 @@
+.b1{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.b2{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
